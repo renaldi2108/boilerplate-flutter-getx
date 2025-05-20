@@ -26,8 +26,8 @@ lib/
 │   ├── repository/  # Repository interfaces
 │   └── usecase/     # Use case definitions
 ├── presentation/    # Presentation layer
-│   ├── feature_name/ # Modular features
-│   │   ├── binding/    # Getx binding
+│   ├── feature_name/      # Modular features
+│   │   ├── binding/       # Getx binding
 │   │   ├── controller/    # Getx logic
 │   │   └── page/    # UI pages
 ├── shared/          # Shared resources
